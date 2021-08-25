@@ -1,5 +1,25 @@
 [
   {
+    "name": "xyzscape",
+    "url": "https://xyzscape.xyz",
+    "icon": "https://favicons.githubusercontent.com/xyzscape.xyz",
+    "slug": "xyzscape",
+    "status": "down",
+    "uptime": "8.96%",
+    "uptimeDay": "8.96%",
+    "uptimeWeek": "8.96%",
+    "uptimeMonth": "8.96%",
+    "uptimeYear": "8.96%",
+    "time": 439,
+    "timeDay": 439,
+    "timeWeek": 439,
+    "timeMonth": 439,
+    "timeYear": 439,
+    "dailyMinutesDown": {
+      "2021-08-25": 0
+    }
+  },
+  {
     "name": "xyzuan",
     "url": "https://ceo.xyzscape.xyz",
     "icon": "https://favicons.githubusercontent.com/ceo.xyzscape.xyz",
@@ -10,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 489,
-    "timeDay": 489,
-    "timeWeek": 489,
-    "timeMonth": 489,
-    "timeYear": 489,
+    "time": 470,
+    "timeDay": 470,
+    "timeWeek": 470,
+    "timeMonth": 470,
+    "timeYear": 470,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 434,
-    "timeDay": 434,
-    "timeWeek": 434,
-    "timeMonth": 434,
-    "timeYear": 434,
+    "time": 435,
+    "timeDay": 435,
+    "timeWeek": 435,
+    "timeMonth": 435,
+    "timeYear": 435,
     "dailyMinutesDown": {}
   }
 ]

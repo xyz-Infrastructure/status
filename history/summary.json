@@ -16,7 +16,7 @@
     "timeMonth": 382,
     "timeYear": 382,
     "dailyMinutesDown": {
-      "2021-09-01": 69,
+      "2021-09-01": 395,
       "2021-08-31": 1440,
       "2021-08-30": 1440,
       "2021-08-29": 1440,
@@ -31,36 +31,39 @@
     "url": "https://ceo.xyzscape.xyz",
     "icon": "https://favicons.githubusercontent.com/ceo.xyzscape.xyz",
     "slug": "xyzuan",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 282,
     "timeDay": 202,
-    "timeWeek": 282,
+    "timeWeek": 231,
     "timeMonth": 282,
     "timeYear": 282,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-01": 0
+    }
   },
   {
     "name": "xdroid",
     "url": "https://xd.xyzscape.xyz",
     "icon": "https://favicons.githubusercontent.com/xd.xyzscape.xyz",
     "slug": "xdroid",
-    "status": "up",
-    "uptime": "91.08%",
+    "status": "down",
+    "uptime": "91.36%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.08%",
-    "uptimeMonth": "91.08%",
-    "uptimeYear": "91.08%",
+    "uptimeWeek": "91.16%",
+    "uptimeMonth": "91.36%",
+    "uptimeYear": "91.36%",
     "time": 269,
     "timeDay": 245,
-    "timeWeek": 269,
+    "timeWeek": 228,
     "timeMonth": 269,
     "timeYear": 269,
     "dailyMinutesDown": {
+      "2021-09-01": 0,
       "2021-08-27": 135,
       "2021-08-26": 756
     }
